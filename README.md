@@ -17,7 +17,7 @@ This repository explores and implements concepts from the research paper "Bottle
 The research introduces a novel hybrid architecture that combines the robustness of CNNs with the efficiency of self-attention mechanisms from transformers to address the challenges in visual recognition tasks such as object detection and image classification.
 
 ## Installation
-Please download the notebook `Bottleneck_Transformer.ipynb` and run the paper top to bottom
+Please run our notebook `Bottleneck_Transformer.ipynb` top to bottom
 
 ## Team Members
 Will Qi, Tin Do, Tarunyaa Tarunyaa Sivakumar
