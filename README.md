@@ -20,4 +20,4 @@ The research introduces a novel hybrid architecture that combines the robustness
 Please run our notebook `Bottleneck_Transformer.ipynb` top to bottom
 
 ## Team Members
-Will Qi, Tin Do, Tarunyaa Tarunyaa Sivakumar
+Will Qi, Tin Do, Tarunyaa Sivakumar
